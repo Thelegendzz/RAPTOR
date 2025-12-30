@@ -6,7 +6,7 @@ This is the official implementation of **🦅RAPTOR**.
 We are currently going through the final exams of UCAS. The code is coming soon......
 
 ## Citation
-If you find this repo useful in your research, please citing：
+If you find this repo useful in your research, please cite：
 ```
 @article{chen2025raptor,
   title={RAPTOR: Real-Time High-Resolution UAV Video Prediction with Efficient Video Attention},
