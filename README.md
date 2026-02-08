@@ -3,8 +3,6 @@
 ## Introduction
 This is the official implementation of **🦅RAPTOR**.
 
-We are currently going through the final exams of UCAS. The code is coming soon......
-
 ## Citation
 If you find this repo useful in your research, please cite：
 ```
