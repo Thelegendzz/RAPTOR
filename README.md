@@ -1,4 +1,5 @@
 # [AAAI 2026] 🦅RAPTOR: Real-Time High-Resolution UAV Video Prediction with Efficient Video Attention
+> [Zhan Chen](https://scholar.google.com/citations?user=9k1flhEAAAAJ&hl=zh-CN), Zile Guo, [Enze Zhu](https://scholar.google.com/citations?user=9k1flhEAAAAJ&hl=zh-CN), Peirong Zhang, [Xiaoxuan Liu](https://scholar.google.com/citations?user=VjXx-JYAAAAJ&hl=zh-CN), Lei Wang, [Yidan Zhang](https://scholar.google.com/citations?user=505jCy0AAAAJ&hl=zh-CN)
 
 ## Introduction
 This is the official implementation of **🦅RAPTOR**.
